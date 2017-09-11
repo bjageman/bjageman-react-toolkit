@@ -33,10 +33,17 @@
     "webpack": "^3.5.6"
   },
   "dependencies": {
-    "draft-js-hashtag-plugin": "^2.0.0-beta1",
-    "draft-js-inline-toolbar-plugin": "^2.0.0-beta6",
-    "draft-js-linkify-plugin": "^2.0.0-beta1",
-    "draft-js-plugins-editor": "^2.0.0-beta1",
     "react-icons": "^2.2.5"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjageman/bjageman-react-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bjageman/bjageman-react-toolkit/issues"
+  },
+  "homepage": "https://github.com/bjageman/bjageman-react-toolkit#readme"
 }
